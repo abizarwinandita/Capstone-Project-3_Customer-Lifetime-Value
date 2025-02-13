@@ -1,4 +1,4 @@
-Model Prediktif Customer Lifetime Value Pada Perusahaan Asuransi Untuk Optimalisasi Strategi dan Profitabilitas Dengan Pendekatan Machine Learning
+**Model Prediktif Customer Lifetime Value Pada Perusahaan Asuransi Untuk Optimalisasi Strategi dan Profitabilitas Dengan Pendekatan Machine Learning**
 
 📌 Project Overview
 
